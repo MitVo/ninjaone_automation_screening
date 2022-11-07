@@ -7,4 +7,4 @@ R/The code verifies if there is a software installed and downloaded
 R/It assumes the application is at least downloaded.
 
 #3.) What architectures can this script run on?
-R/
+R/One with architecture pattern master-slave
